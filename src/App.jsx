@@ -54,7 +54,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Benny's App 🚀</h1>
+      <h1>Benny's App 🚀 (Auto-Deployed) </h1>
       <div className="card">
         <button onClick={handleIncrement}>
           count is {count}
